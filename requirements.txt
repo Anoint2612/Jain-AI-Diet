@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain_google_genai
+python-dotenv
+langchain_community
+faiss-cpu
+pillow
+textract
+streamlit
